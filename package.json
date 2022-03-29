@@ -1,0 +1,21 @@
+{
+  "name": "music-trends",
+  "version": "1.0.0",
+  "description": "Italian music trend analysis ",
+  "main": "index.js",
+  "scripts": {
+    "init:commitizen": "commitizen init cz-conventional-changelog --save-dev --save-exact",
+    "commit": "cz"
+  },
+  "author": "thecreazy <canella_riccardo@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
