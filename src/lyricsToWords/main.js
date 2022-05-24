@@ -23,7 +23,7 @@ const main = () => {
     const noSpaStopWords = stopword.removeStopwords(noItaStopWords, stopword.spa);
     const uniqueValues = noSpaStopWords.filter(onlyUnique);
     const noEmptyValues = uniqueValues.filter((v) => !!v);
-    lyrics[trackInfo.id] = noEmptyValues;
+    lyrics[trackInfo.id] = {values: noEmptyValues, numberOfWords: noEmptyValues.length}
   }
   fs.writeFileSync(path.resolve(__dirname, '../../files/calculated/wordsForLyrics.json'), JSON.stringify(lyrics, null, 4));
 };
