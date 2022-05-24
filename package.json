@@ -8,6 +8,7 @@
     "commit": "cz",
     "start:findListOfSongs": "node src/findListOfSongs/main.js",
     "start:downloadLyrics": "node src/downloadLyrics/main.js",
+    "start:lyricsToWords": "node src/lyricsToWords/main.js",
     "lint": "eslint \"src/**/*.{js,ts}\""
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
@@ -29,6 +30,7 @@
     "axios": "^0.27.2",
     "better-logging": "^4.7.0",
     "dotenv": "^16.0.1",
-    "fast-csv": "^4.3.6"
+    "fast-csv": "^4.3.6",
+    "stopword": "^2.0.2"
   }
 }
