@@ -5,17 +5,29 @@
   "main": "index.js",
   "scripts": {
     "init:commitizen": "commitizen init cz-conventional-changelog --save-dev --save-exact",
-    "commit": "cz"
+    "commit": "cz",
+    "start:findListOfSongs": "node src/findListOfSongs/main.js",
+    "lint": "eslint \"src/**/*.{js,ts}\""
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
   "license": "ISC",
   "devDependencies": {
     "commitizen": "^4.2.4",
-    "cz-conventional-changelog": "^3.3.0"
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "axios": "^0.27.2",
+    "better-logging": "^4.7.0",
+    "dotenv": "^16.0.1",
+    "fast-csv": "^4.3.6"
   }
 }
