@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const delay = require('./delay');
+const delay = require('../utils/delay');
 
 const searchForAlbum = async ({ q }) => {
   const options = {

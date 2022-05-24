@@ -1,9 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const getLyrics = require('../functions/getLyrics');
-const getTrackInfo = require('../functions/getTrackInfo');
-const delay = require('../functions/delay');
+const getLyrics = require('./getLyrics');
+const getTrackInfo = require('./getTrackInfo');
+const delay = require('../utils/delay');
 
 require('dotenv').config();
 require('better-logging')(console);

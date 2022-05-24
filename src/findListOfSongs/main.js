@@ -2,7 +2,7 @@ const fs = require('fs');
 const csv = require('@fast-csv/parse');
 const path = require('path');
 
-const downloadAlbumInfo = require('../functions/downloadAlbumInfo');
+const downloadAlbumInfo = require('./downloadAlbumInfo');
 
 require('dotenv').config();
 require('better-logging')(console);
