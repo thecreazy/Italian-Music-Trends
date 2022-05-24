@@ -28,10 +28,17 @@
   },
   "dependencies": {
     "@fast-csv/parse": "^4.3.6",
+    "@nlpjs/core": "^4.23.4",
+    "@nlpjs/lang-it": "^4.23.4",
+    "@nlpjs/nlp": "^4.23.5",
+    "@nlpjs/sentiment": "^4.23.4",
     "axios": "^0.27.2",
     "better-logging": "^4.7.0",
     "dotenv": "^16.0.1",
     "fast-csv": "^4.3.6",
-    "stopword": "^2.0.2"
+    "nlpjs": "^0.0.2",
+    "node-nlp": "^4.24.0",
+    "stopword": "^2.0.2",
+    "vader-sentiment": "^1.1.3"
   }
 }
