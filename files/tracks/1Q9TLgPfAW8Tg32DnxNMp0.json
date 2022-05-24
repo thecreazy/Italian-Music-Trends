@@ -1,0 +1,816 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Bye, bye, bye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bye, bye, bye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E dove vanno queste nubi quando il cielo è terso?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E torneranno presto (bye, bye, bye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E dove vanno questi fulmini dopo un rovescio?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E dove sono adesso? (Non lo sai)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ada guardava la pioggia sopra la piana",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che scendeva fra i sentieri tra i fiori di macadamia (oh-oh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La sua grondaia vibrava goccia su goccia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lei contava i suoi pensieri coi semi di guanàbana (ah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Viveva in pena vicino alla cordigliera",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E là pioveva senza tregua e non smetteva se non per magia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ada leggeva e sognava un avventuriero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che arrivasse alla frontiera e le chiedesse di fuggire via",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E là sotto i suoi manghi, davanti ai piovaschi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leggeva di tutto, dai saggi ai romantici",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche i libri più marci con stralci di parti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riscriveva i finali, lei amava inventarseli (seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma dove vai-ai-ai? Ogni nube ha dentro un pensiero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che ora il vento ci porterà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seh, seh, tu dimmi, dimmi dov'è (ehi)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E come fai-ai-ai? Segui il suono sopra il sentiero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E oggi il cielo non piangerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seh, seh, tu dimmi come e perché",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un giorno fra tanti, la pioggia bagnava i cardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed Ada leggeva Saba, guardava l'alba fra i mandorli (seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dei suoi trent'anni passati in mezzo a quei campi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sognava di innamorarsi come nei grandi romanzi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando lo vide che veniva con il passo breve",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il primo uomo dopo tanto che giungeva là",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forse era giunto l'uomo giusto delle sue preghiere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Però un conto era quel suo sogno e un altro la realtà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed Ernando era sveglio, ma certo non bello",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nonostante l'orgoglio, non brillava per la leggiadria",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E lei che lo guardava con schietto disprezzo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di chi ha infranto un bel sogno che rischiava di volare via",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma lui aveva un'arma ed un'arte maliarda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La chitarra che vibrava e che toccava come fosse un Dio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E quando lui suonava il pentagramma dell'acqua",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riusciva ad ammaliarla se cantava: \"Sei tu l'amor mio?\" (seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma dove vai-ai-ai? Ogni nube ha dentro un pensiero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che ora il vento ci porterà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seh, seh, tu dimmi, dimmi dov'è (ehi)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E come fai-ai-ai? Segui il suono sopra il sentiero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E oggi il cielo non piangerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seh, seh, tu dimmi come e perché",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando suonava ogni nota si sollevava",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seguendo in volo i tucani verso i fiori di ibisco",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E nella pioggia ogni strofa la colorava",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni foglia dei frangipani su un sentiero mai visto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lei lo guardava incantata e quando Ernando cantava",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per strada in estate sembrava bellissimo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed ogni nota suonata, inondava lei Ada",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che scostava dal seno il suo bolero di pizzo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vennero i giorni delle note sussurrate ai prati",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E quelli belli delle risa mescolate ai baci",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed io ora parto verso i golfi e verso nuovi viaggi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Voglio tu venga via con me, sì, verso nuovi spazi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pioveva forte sull'erba dei fossi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lei sorrise divertita quasi fosse come una follia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Appoggiò la sua penna sui fogli di inchiostri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A stile fine a fine riga aveva scritto: \"Sì, portami via\" (seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma dove vai-ai-ai? Ogni nube ha dentro un pensiero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che ora il vento ci porterà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seh, seh, tu dimmi, dimmi dov'è (ehi)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E come fai-ai-ai? Segui il suono sopra il sentiero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E oggi il cielo non piangerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seh, seh, tu dimmi come e perché (come e perché)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "138381111",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                    "id": "1UAY1hWd5x69hPVXMXIeri",
+                    "name": "Murubutu",
+                    "type": "artist",
+                    "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+            },
+            "href": "https://api.spotify.com/v1/albums/03mKUpldVCEzMHeFlr8Dky",
+            "id": "03mKUpldVCEzMHeFlr8Dky",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395b3ffe17458c718b9a76f33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295b3ffe17458c718b9a76f33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195b3ffe17458c718b9a76f33",
+                    "width": 64
+                }
+            ],
+            "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+            "release_date": "2022-01-14",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:03mKUpldVCEzMHeFlr8Dky"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                },
+                "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                "id": "1UAY1hWd5x69hPVXMXIeri",
+                "name": "Murubutu",
+                "type": "artist",
+                "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7FL4vPkLGyqkTZz0190qib"
+                },
+                "href": "https://api.spotify.com/v1/artists/7FL4vPkLGyqkTZz0190qib",
+                "id": "7FL4vPkLGyqkTZz0190qib",
+                "name": "Dia",
+                "type": "artist",
+                "uri": "spotify:artist:7FL4vPkLGyqkTZz0190qib"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244000,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "IT2G32100013"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1Q9TLgPfAW8Tg32DnxNMp0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Q9TLgPfAW8Tg32DnxNMp0",
+        "id": "1Q9TLgPfAW8Tg32DnxNMp0",
+        "is_local": false,
+        "name": "Pentagramma dell'acqua",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/77d6d9698df60996a06fff62b2d2c6c1b30f45aa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:1Q9TLgPfAW8Tg32DnxNMp0"
+    }
+}

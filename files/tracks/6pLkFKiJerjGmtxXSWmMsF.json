@@ -1,0 +1,926 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "James Logan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sopra il cielo sole luce perfetta (Perfetta)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto il cielo grande nube, poi black out (Black out)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto zero, pioggia a fiumi, tempesta (Tempesta)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cielo nero, lampi e fulmini, Tesla (Tesla)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ah, tu guarda in alto dove il cielo muore (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu guarda in basso sotto gelo e scorie (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Su città d'aria nuovo impero Giove (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giù città bassa tra veleno e piogge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto gli archi e le torri d'oligarchi ed accoliti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una nube regna immensa, grigio-nero, mefitica",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Piove forte da giorni, lampi bianchi fra i vortici",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma ogni goccia resta ferma mentre il cielo precipita (Eh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A capofitto, dall'alto s'abbatte il triplo (Uh, uh, uh, uh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sopra il capo d'ogni schiavo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che resta dannato e zitto (Uh, uh, uh, uh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mille luci megaschermi e, no, non riesci a contarle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nube nera piega i servi messi dentro ai container",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E giù la massa s'accalca spinta dentro a un delirio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sente voci da una cassa, prende diktat da un video (Seh, seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto l'acqua città bassa come un essere anfibio (Seh, seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E questa pioggia che non passa persa dentro a un continuum",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E quando il cielo si chiude, qui urlo bieco e paure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Basso ceto cede al peso arreso a questa palude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E chi ha scalato mura al gelo perché ha vinto l'abisso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È tornato indietro cieco perché ha visto la luce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scappare non conta tanto quanto scegliere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La pioggia sa esattamente quando scendere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un lampo celere in alto, tutt'altro che leggero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che quando si accende rende il nero del cielo bianco cenere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una nube sta piangendo inchiostro che raffiche scaglia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tempio oscuro, gerarchia nei cieli a piramide Maya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "May day, piove un miscuglio che qua ogni martire bagna",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black Rain, diluvio buio sopra l'Atlantide d'aria",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Marinai su una barca nel pelago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E nonostante in mare ce ne sia di più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non è quella l'acqua che temono (Yeh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il popolo immagina terre aride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche se pioverà per sempre questa gente c'ha l'anima impermeabile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'uomo vive in tenebre riflesse (Ah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cerca se stesso in luci lette in lettere disperse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ancora adesso a scuola ai bambini vien chiesto di disegnare il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Provando a immaginare a come sarebbe se esistesse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sopra il cielo sole luce perfetta (Perfetta)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto il cielo grande nube, poi black out (Black out)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto zero, pioggia a fiumi, tempesta (Tempesta)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cielo nero, lampi e fulmini, Tesla (Tesla)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ah, tu guarda in alto dove il cielo muore (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu guarda in basso sotto gelo e scorie (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Su città d'aria nuovo impero Giove (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giù città bassa tra veleno e piogge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia brucia incombe, bombarda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia tocca il suolo, bombarda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uoh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il vento sibila poesie aramaiche (Aramaiche)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il tempo stritola le anime stanche (Stanche)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le panche bianche della brina",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi ricordano che sono giù all'inferno ed è inverno mattina",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il cielo parla, dice: \"Non sei solo\" (Solo, Ness)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io guardo in alto, ma non mi consolo (Non mi consolo, bro)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho perso il conto dei miei giorni scuri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Navigo in questa tempesta elettrica cercando luci (Cercando luci)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La pioggia scroscia ma non abbastanza",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per lavare via le impurità di una città malvagia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La terra piange ma nessuno sente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cambiano la pelle di serpente perché sono niente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pozzanghera colore kaki",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riflette rughe, cicatrici e draghi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cerco un sorriso tra le ombre (Ah, ah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma rimbombano soltanto queste voci dalle catacombe (Ah, ah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi sento un pargolo e anche un vecchio stanco",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nello stesso tempo, perché il tempo non ha più contatto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho perso ogni cognizione in questa pioggia senza senso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che ha sconnesso ogni generazione (Eh, eh, eh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ora le nuvole parlano chiaro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stanno gridando e, no, non smetteranno (Ah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tuonano rabbia dietro ai monti bianchi (Rrr)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E il grigio sta arrivando vendicandosi di questi umani (Dead)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sopra il cielo sole luce perfetta (Perfetta)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto il cielo grande nube, poi black out (Black out)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto zero, pioggia a fiumi, tempesta (Tempesta)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cielo nero, lampi e fulmini, Tesla (Tesla)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ah, tu guarda in alto dove il cielo muore (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu guarda in basso sotto gelo e scorie (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Su città d'aria nuovo impero Giove (Seh, seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giù città bassa tra veleno e piogge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "138381106",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                    "id": "1UAY1hWd5x69hPVXMXIeri",
+                    "name": "Murubutu",
+                    "type": "artist",
+                    "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+            },
+            "href": "https://api.spotify.com/v1/albums/03mKUpldVCEzMHeFlr8Dky",
+            "id": "03mKUpldVCEzMHeFlr8Dky",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395b3ffe17458c718b9a76f33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295b3ffe17458c718b9a76f33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195b3ffe17458c718b9a76f33",
+                    "width": 64
+                }
+            ],
+            "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+            "release_date": "2022-01-14",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:03mKUpldVCEzMHeFlr8Dky"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                },
+                "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                "id": "1UAY1hWd5x69hPVXMXIeri",
+                "name": "Murubutu",
+                "type": "artist",
+                "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+                },
+                "href": "https://api.spotify.com/v1/artists/3hCo0MeLrjAvQxAzPknjhK",
+                "id": "3hCo0MeLrjAvQxAzPknjhK",
+                "name": "Mattak",
+                "type": "artist",
+                "uri": "spotify:artist:3hCo0MeLrjAvQxAzPknjhK"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+                },
+                "href": "https://api.spotify.com/v1/artists/0nKxW51VOD6px2uMM4ehfF",
+                "id": "0nKxW51VOD6px2uMM4ehfF",
+                "name": "Inoki",
+                "type": "artist",
+                "uri": "spotify:artist:0nKxW51VOD6px2uMM4ehfF"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw"
+                },
+                "href": "https://api.spotify.com/v1/artists/5wlZkgwhLD0Zbsj1sH99Dw",
+                "id": "5wlZkgwhLD0Zbsj1sH99Dw",
+                "name": "DJ Fastcut",
+                "type": "artist",
+                "uri": "spotify:artist:5wlZkgwhLD0Zbsj1sH99Dw"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 261810,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "IT2G32100008"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6pLkFKiJerjGmtxXSWmMsF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6pLkFKiJerjGmtxXSWmMsF",
+        "id": "6pLkFKiJerjGmtxXSWmMsF",
+        "is_local": false,
+        "name": "Black Rain, pt. 2",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/30afc3da2b813893ef07bb21bf3d6c78253751df?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:6pLkFKiJerjGmtxXSWmMsF"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Il suo ampio vestito trapunto di spine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il cappello di un mago fatto di marzapane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vedi il viso imbiancato di farina e silenzio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È stupito e curioso, quel distendersi ansioso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tra le trame di un palco",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di una piazza cattiva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lui il suo corpo scuoteva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Muto, assurdo, distratto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È una spina di pesce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per il balzo di un gatto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È una pulce sul filo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma è una cesta raccolta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulle rive del Nilo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il suo occhio cerchiato, innocente, sinistro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "C'era un lago annerito, spaventato di bistro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Amerà qualche volta, in silenzio, si intende",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una donna corrotta ma è una serva innocente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed ognuno dirà: \"Poverino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guarda com'è diverso il cammino del mimo\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tra le trame di un palco",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di una piazza cattiva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lui il suo corpo scuoteva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Muto, assurdo, distratto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È una spina di pesce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per il balzo di un gatto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È una pulce sul filo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma è una cesta raccolta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulle rive del Nilo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3430352",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 218066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB008270795"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6wGB24HDVRG8OeaaEOjTT1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6wGB24HDVRG8OeaaEOjTT1",
+        "id": "6wGB24HDVRG8OeaaEOjTT1",
+        "is_local": false,
+        "name": "Il Mimo",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/5f8baaeaa36347bca3a6773514f34a24a1732d15?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:6wGB24HDVRG8OeaaEOjTT1"
+    }
+}

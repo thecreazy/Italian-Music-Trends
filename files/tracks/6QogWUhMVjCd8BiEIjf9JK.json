@@ -1,0 +1,746 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Tutta salita, ma siamo in macchina",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un colpo basso, non è una tattica",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La confezione della mia sagoma",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fatta di pelle, mica di plastica",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vogliono un pezzo tipo: \"Na-na-na-na\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io che li caccio tipo: \"Va' là, va' là\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sento le voci, sento la chiacchiera",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parlano molto perché per me non hanno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Niente di meglio da fare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che parlare in giro, che parlare male",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non sei un giornalista, non sei un giornale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma senza farlo non riesci a stare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dimmi cose che puoi dire di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ti piaceva di più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È quel che volevi tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se vuoi parlare di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una di queste notti rimarrai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza la voglia di pensare anche un po' a te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'estate scorsa mi si è rotta la tele",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non mi andava la rete, mentre parlavi di me, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi riconoscerei tra mille silhouette, senza schermi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci tengo, quindi parlami di me, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ripeto ciò che vedo da quei finestrini",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tipo che sei così bella e non so dove finisci",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Odio lo scrittore che parla dei propri libri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È un po' come una madre che parla bene dei figli",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scriverò un pezzo tipo: \"Na-na-na-na\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Qualche strato di pelle e tette di plastica",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sdraiato sopra un muro d'acqua a novanta miglia da te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per chi non ha",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Niente di meglio da fare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che parlare in giro, che parlare male",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non sei un giornalista, non sei un giornale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma senza farlo non riesci a stare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dimmi cose che puoi dire di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ti piaceva di più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È quel che volevi tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se vuoi parlare di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una di queste notti rimarrai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza la voglia di pensare anche un po' a te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un po' a te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se vuoi parlare di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Però non parli di te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che cosa vuoi dire a me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cose che puoi dire di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ti piaceva di più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È quel che volevi tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se vuoi parlare di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una di queste notti rimarrai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza la voglia di pensare anche un po' a te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "140457621",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7FeObngbQ0GY3SojNwKdKn",
+                    "id": "7FeObngbQ0GY3SojNwKdKn",
+                    "name": "Bresh",
+                    "type": "artist",
+                    "uri": "spotify:artist:7FeObngbQ0GY3SojNwKdKn"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5YV5crRpcdknHgEzystZHr",
+                    "id": "5YV5crRpcdknHgEzystZHr",
+                    "name": "SHUNE",
+                    "type": "artist",
+                    "uri": "spotify:artist:5YV5crRpcdknHgEzystZHr"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2YRj0sbrAQASM0s8bI2V8U"
+            },
+            "href": "https://api.spotify.com/v1/albums/2YRj0sbrAQASM0s8bI2V8U",
+            "id": "2YRj0sbrAQASM0s8bI2V8U",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f3f9f6556f65834260b31124",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f3f9f6556f65834260b31124",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f3f9f6556f65834260b31124",
+                    "width": 64
+                }
+            ],
+            "name": "ORO BLU",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:2YRj0sbrAQASM0s8bI2V8U"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+                },
+                "href": "https://api.spotify.com/v1/artists/7FeObngbQ0GY3SojNwKdKn",
+                "id": "7FeObngbQ0GY3SojNwKdKn",
+                "name": "Bresh",
+                "type": "artist",
+                "uri": "spotify:artist:7FeObngbQ0GY3SojNwKdKn"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+                },
+                "href": "https://api.spotify.com/v1/artists/056KMTw6IztdQjBmFfVyO3",
+                "id": "056KMTw6IztdQjBmFfVyO3",
+                "name": "Rkomi",
+                "type": "artist",
+                "uri": "spotify:artist:056KMTw6IztdQjBmFfVyO3"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+                },
+                "href": "https://api.spotify.com/v1/artists/5YV5crRpcdknHgEzystZHr",
+                "id": "5YV5crRpcdknHgEzystZHr",
+                "name": "SHUNE",
+                "type": "artist",
+                "uri": "spotify:artist:5YV5crRpcdknHgEzystZHr"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 162500,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "ITB002101417"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6QogWUhMVjCd8BiEIjf9JK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6QogWUhMVjCd8BiEIjf9JK",
+        "id": "6QogWUhMVjCd8BiEIjf9JK",
+        "is_local": false,
+        "name": "Parli Di Me",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/1ffba8449a9e52a170e1685c465fd120267d72ac?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6QogWUhMVjCd8BiEIjf9JK"
+    }
+}

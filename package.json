@@ -7,6 +7,7 @@
     "init:commitizen": "commitizen init cz-conventional-changelog --save-dev --save-exact",
     "commit": "cz",
     "start:findListOfSongs": "node src/findListOfSongs/main.js",
+    "start:downloadLyrics": "node src/downloadLyrics/main.js",
     "lint": "eslint \"src/**/*.{js,ts}\""
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",

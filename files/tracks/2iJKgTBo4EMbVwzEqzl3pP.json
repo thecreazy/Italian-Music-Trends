@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Per Budda e per Bushido",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "O vincere o morire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per tutte le mie ossa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "O vincere o morire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per i vulcani spenti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "O vincere o morire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Già per l'altare, i peschi sono in fiore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le facce pietre, Kaishaku guarda me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E questa terra, già vomita preghiere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sento alle spalle un grido: ahè! Karakiri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per Budda e per Bushido",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "O vincere o morire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per tutti i miei soldati",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "O vincere o morire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per i sopravvissuti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E per l'imperatore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vorrei scappare, ma i peschi sono in fiore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La mano trema, Kaishaku aspetta me!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E questa terra, già vomita preghiere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sento alle spalle un grido: ahè!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri! Oh, oh...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ka-ra-ki-ri!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vorrei scappare, ma i peschi sono in fiore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La mano trema, Kaishaku aspetta me!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E questa terra, già vomita preghiere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sento alle spalle un grido: ahè!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Karakiri!",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3430361",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 243400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB008270562"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2iJKgTBo4EMbVwzEqzl3pP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iJKgTBo4EMbVwzEqzl3pP",
+        "id": "2iJKgTBo4EMbVwzEqzl3pP",
+        "is_local": false,
+        "name": "Karakiri",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/24d6d1f05cede911f41ec7de99d6170e5e30e76c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 26,
+        "type": "track",
+        "uri": "spotify:track:2iJKgTBo4EMbVwzEqzl3pP"
+    }
+}

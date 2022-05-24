@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "E ci si può ammazzare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Specialmente per amore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E la noia è",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La compagna di",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi non vuole mai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soffrire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La tua bocca mi ritorna",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solamente col dolore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con il solco che farà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Col calore che verrà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Da questa lama che è perfetta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benedetta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lo so bene io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che sono",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giulietta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3430345",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 110520,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB008270805"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/52bqqlBnBLwzJmbS6ZY43R"
+        },
+        "href": "https://api.spotify.com/v1/tracks/52bqqlBnBLwzJmbS6ZY43R",
+        "id": "52bqqlBnBLwzJmbS6ZY43R",
+        "is_local": false,
+        "name": "Giulietta",
+        "popularity": 3,
+        "preview_url": "https://p.scdn.co/mp3-preview/4687cf9877eadabfe3b299451546873df87c080f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:52bqqlBnBLwzJmbS6ZY43R"
+    }
+}

@@ -1,0 +1,826 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Tu pioggia che bagni i narcisi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che sembri suonare l'asfalto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ste gocce sono meteoriti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che danzano sopra al basalto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni volta le guardo e m'incanto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le guardo e mi scaldo, le guardo e mi calmano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sembra non cadano, salgano e parta dal basso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Qua il viaggio dell'acqua è contrario",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni goccia che tocca per terra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ha un suo tocco e una nota diversa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed il cielo che suona il suo piano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni tasto è una corda nascosta nell'erba",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E 'sta musica in testa, qua musa e tempesta di nubi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non resta una muta promessa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non finisce mai (Mai)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tra i confini delle case, tra i profili delle strade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tra i cortili delle strade il ticchettio del temporale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questo ritmo regolare suona mille Stradivari tra le vie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le case e il mare fino a farle straripare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io cerco prove e indizi dove inizi questa pioggia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E finisca per sempre la malinconia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In 'sto tempo che pare sospeso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È un veliero di ghiaccio e vapore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Attraversa un oceano sorpreso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E si frange su spiagge dell'ovest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io lo chiamo per nome, ne guado le chiome, ricavo un bagliore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Traduco le piogge qua mosse dall'alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel codice Morse dell'acqua che cade per ore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E poi, sai, vedrai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per me sarà come impazzire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel vortice di un nuovo sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Camminando fioriranno mondi fra di noi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E noi riflessi come aurore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mentre ci piove dentro al cuore-ore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni goccia a suo modo è uno specchio (Ehi)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Col mondo riflesso all'interno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni goccia è un suo fuoco, un suo senso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uno sguardo diretto sul cosmo e sul tempo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni goccia a suo piccolo modo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Qua un piccolo modo che è un piccolo globo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una pioggia di varie sequele",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una trama di tele di questo mio stesso universo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E in una di queste ti ho visto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E temevo che tu scomparissi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E tu stesso una goccia dispersa nel cielo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deserto fra nuvole e prismi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sotto qui un regno vibrante ch'è un dedalo d'arte si tiene pulsante",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E a volte mi chiedo sia quale sia vero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tra i cieli che vedo qui nelle pozzanghere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ogni goccia che cade fra i lampi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Si frange fra mille rimbalzi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riflette i tuoi occhi smeraldi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con dentro un milione di mondi più grandi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "C'investe e ci guarda, riflessi di calma tra i nembi dell'alba",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Muovendo tempesta e tingendo d'affreschi arabeschi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quei resti dei mondi dispersi nell'aria",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Assalto meraviglioso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un parto di perle celeste",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che tenderò un arto nel cielo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che è un arco guerriero ed è un arcobaleno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo allora la pioggia sul corpo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La pioggia nel bosco si spegne silente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ci lascia ora soli a fissarci negli occhi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed intorno un palazzo di gemme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E poi, sai, vedrai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per me sarà come impazzire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel vortice di un nuovo sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Camminando fioriranno mondi fra di noi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E noi riflessi come aurore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mentre ci piove dentro al cuore-ore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "138381112",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                    "id": "1UAY1hWd5x69hPVXMXIeri",
+                    "name": "Murubutu",
+                    "type": "artist",
+                    "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+            },
+            "href": "https://api.spotify.com/v1/albums/03mKUpldVCEzMHeFlr8Dky",
+            "id": "03mKUpldVCEzMHeFlr8Dky",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395b3ffe17458c718b9a76f33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295b3ffe17458c718b9a76f33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195b3ffe17458c718b9a76f33",
+                    "width": 64
+                }
+            ],
+            "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+            "release_date": "2022-01-14",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:03mKUpldVCEzMHeFlr8Dky"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                },
+                "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                "id": "1UAY1hWd5x69hPVXMXIeri",
+                "name": "Murubutu",
+                "type": "artist",
+                "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF"
+                },
+                "href": "https://api.spotify.com/v1/artists/7HiP69UJp8p2pKxnRaPqYF",
+                "id": "7HiP69UJp8p2pKxnRaPqYF",
+                "name": "Dhany",
+                "type": "artist",
+                "uri": "spotify:artist:7HiP69UJp8p2pKxnRaPqYF"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 259375,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "IT2G32100014"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3pI71tZxV12MUnOjoBXwKq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3pI71tZxV12MUnOjoBXwKq",
+        "id": "3pI71tZxV12MUnOjoBXwKq",
+        "is_local": false,
+        "name": "Palazzo di Gemme",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/869520189bef5550845d16893e575f678cd84588?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:3pI71tZxV12MUnOjoBXwKq"
+    }
+}

@@ -1,0 +1,741 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E mentre ti aspetto vedo il tuo riflesso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fuori dalle vetrine dei negozi qua in centro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se ti sembro freddo allora è tutto perfetto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ti coprirei da me come un turista d'inverno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma non torni più e ora sono perso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro il blu del tuo smalto e penso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo tu hai trovato i pezzi che cercavo tra le parole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade, ah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se corro troppo, inciampo, ma là non ci ritorno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oggi mi gira male, tu stai dietro di me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma guarda che non mi stanco, arrivo in cima al mondo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu mi dici: \"Che noia, ci credi solo te\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se stai sempre in mezzo agli altri (in mezzo agli altri)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ti alzi quando è già tardi (quando è già tardi)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E il sole non ti bacia mai, ecco perché stai sempre giù",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vorrei dirti: \"Lascia stare\" per parlare un po' di più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma ti nascondi, è notte fonda (è notte fonda)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non so la strada, non mi rispondi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade, ah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non chiedere tempo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soli sopra un muretto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando piangi ti sento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dimmi cosa non va",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se mi rincorri con i denti stretti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non mi prendi quasi mai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perdi, so che non ti arrendi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma ora se mi aspetti, cosa fai?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ti nascondi, è notte fonda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non so la strada, non mi rispondi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ehi, girasole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché giri intorno ai miei discorsi poi ti fai male?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro soli quando non c'è il sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giochi a prendermi per le strade, ah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "135754861",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1lwGYDWoXC7E5wDNYZBurw",
+                    "id": "1lwGYDWoXC7E5wDNYZBurw",
+                    "name": "bnkr44",
+                    "type": "artist",
+                    "uri": "spotify:artist:1lwGYDWoXC7E5wDNYZBurw"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
+            },
+            "href": "https://api.spotify.com/v1/albums/4kyZ7s8g1iT6LZAHJAcd29",
+            "id": "4kyZ7s8g1iT6LZAHJAcd29",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b6590cbedffb8af89624c25f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b6590cbedffb8af89624c25f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b6590cbedffb8af89624c25f",
+                    "width": 64
+                }
+            ],
+            "name": "FARSI MALE A NOI VA BENE",
+            "release_date": "2021-11-25",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:4kyZ7s8g1iT6LZAHJAcd29"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw"
+                },
+                "href": "https://api.spotify.com/v1/artists/1lwGYDWoXC7E5wDNYZBurw",
+                "id": "1lwGYDWoXC7E5wDNYZBurw",
+                "name": "bnkr44",
+                "type": "artist",
+                "uri": "spotify:artist:1lwGYDWoXC7E5wDNYZBurw"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197453,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITLGE2100099"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Q5BuRgXZOWItqzvZfjKxw",
+        "id": "6Q5BuRgXZOWItqzvZfjKxw",
+        "is_local": false,
+        "name": "GIRASOLE",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/b71ac6a613dfb67b079fefde3e25173fb89e97d4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:6Q5BuRgXZOWItqzvZfjKxw"
+    }
+}

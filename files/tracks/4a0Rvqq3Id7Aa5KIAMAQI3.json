@@ -1,0 +1,696 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Occhi che mi guardano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dallo specchio osservano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Occhi a volte un po' troppo severi scrutano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Per capire quanto c'è",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di diverso come se",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dalla faccia e dai capelli fosse semplice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Intuire se quello riflesso sono ancora io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se ogni piccolo dettaglio su quel volto è proprio mio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se ce la farò ogni giorno ad affrontare tutto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quello che verrà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tutto quello che verrà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Proprio come ho sempre fatto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con le gambe ammortizzando il botto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poi mi rialzerò",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ammaccato non distrutto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Basterà una settimana a letto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poi verrà da se",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci sarà anche qualche sera in cui usciranno lacrime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci sarà anche qualche sera in cui starò per cedere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma poi piano piano tutto passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza accorgermene tutto passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il silenzio a volte è",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Peggio del rumore che",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perlomeno copre il bruricare delle idee",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che di notte vengono",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che di notte affollano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Col loro brusio il cervello e lo martellano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E fanno sembrar difficile anche ciò che non lo è",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E fanno sembrare enormi anche le cose minime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E così guardo te che dormi accanto e penso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che miracolo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vedi a volte accadono",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Proprio come ho sempre fatto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con le gambe ammortizzando il botto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poi mi rialzerò",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ammaccato non distrutto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Basterà una settimana a letto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poi verrà da se",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci sarà anche qualche sera in cui usciranno lacrime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci sarà anche qualche sera in cui starò per cedere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma poi col tuo aiuto tutto passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza accorgermene tutto passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Proprio come ho sempre fatto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poi verrà da se",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci sarà anche qualche sera in cui usciranno lacrime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci sarà anche qualche sera in cui starò per cedere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma poi col tuo aiuto tutto passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza accorgermene tutto passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "6825162",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FcVd3KlRxozcLl19FMXu9",
+                    "id": "6FcVd3KlRxozcLl19FMXu9",
+                    "name": "Max Pezzali",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FcVd3KlRxozcLl19FMXu9"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6bMul6rmRS03x38tWKYifO",
+                    "id": "6bMul6rmRS03x38tWKYifO",
+                    "name": "883",
+                    "type": "artist",
+                    "uri": "spotify:artist:6bMul6rmRS03x38tWKYifO"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MW",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TR",
+                "TT",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0zuNr3FHBMkGAmmyoDGahd"
+            },
+            "href": "https://api.spotify.com/v1/albums/0zuNr3FHBMkGAmmyoDGahd",
+            "id": "0zuNr3FHBMkGAmmyoDGahd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273267ff1ad5a02058ee9c18d76",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02267ff1ad5a02058ee9c18d76",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851267ff1ad5a02058ee9c18d76",
+                    "width": 64
+                }
+            ],
+            "name": "Tutto Max",
+            "release_date": "2005-06-10",
+            "release_date_precision": "day",
+            "total_tracks": 35,
+            "type": "album",
+            "uri": "spotify:album:0zuNr3FHBMkGAmmyoDGahd"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+                },
+                "href": "https://api.spotify.com/v1/artists/6FcVd3KlRxozcLl19FMXu9",
+                "id": "6FcVd3KlRxozcLl19FMXu9",
+                "name": "Max Pezzali",
+                "type": "artist",
+                "uri": "spotify:artist:6FcVd3KlRxozcLl19FMXu9"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6bMul6rmRS03x38tWKYifO"
+                },
+                "href": "https://api.spotify.com/v1/artists/6bMul6rmRS03x38tWKYifO",
+                "id": "6bMul6rmRS03x38tWKYifO",
+                "name": "883",
+                "type": "artist",
+                "uri": "spotify:artist:6bMul6rmRS03x38tWKYifO"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MW",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TR",
+            "TT",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 2,
+        "duration_ms": 223186,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITQ000400047"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4a0Rvqq3Id7Aa5KIAMAQI3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4a0Rvqq3Id7Aa5KIAMAQI3",
+        "id": "4a0Rvqq3Id7Aa5KIAMAQI3",
+        "is_local": false,
+        "name": "Me la caverò",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/9d7159717e450b6cdefffc541f5734bbcc320549?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4a0Rvqq3Id7Aa5KIAMAQI3"
+    }
+}

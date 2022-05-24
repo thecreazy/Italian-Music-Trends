@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto per oggi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto domani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto negli occhi e nelle mani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto al mattino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto la sera",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto nei gesti e nelle vesti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uomo benvenuto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uomo benvenuto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ben ve nu to uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ben ve nu to uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto così",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come ho sempre sperato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto dentro e innamorato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto per sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla pancia e assetato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto in gola e nel palato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uomo benvenuto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uomo benvenuto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E mi apro e ti aspetto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fra poco o più di prima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Benvenuto nel sangue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con le occhiaie la mattina",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ben ve nu to uomo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ben ve nu to uomo",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3430305",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 255986,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB008070971"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5eKukpPYRq8g96dJhQy5pS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5eKukpPYRq8g96dJhQy5pS",
+        "id": "5eKukpPYRq8g96dJhQy5pS",
+        "is_local": false,
+        "name": "Benvenuto",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/60a170303ceff2984ba89ca4cb96d97ddc565456?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:5eKukpPYRq8g96dJhQy5pS"
+    }
+}

@@ -1,0 +1,791 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ziggy Stardust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oro e argento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parlo Cockney, nuovo accento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo scandalo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parla!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Marilyn Manson 19-90",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo gli Hanson Oh no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mmmbop, ba duba dop nananana",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mmmbop, ba duba dop",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mmmbop, ba duba dop nananana",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mmmbop, ba duba dop",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh no no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lady, oh no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Via col vento baby,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All night long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh no no Crazy, oh God",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to Nevada",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi amor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh no, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rockstar come i Rolling Stones, oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Punk Rock sì, come i Ramones, Rock n'roll",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Glam Rock",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "New York New York oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metti le mani in alto, didabdabdidu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le mani in alto, didabdabdidu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh sì, sì le mani in alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oddio mi amor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Didabdabdidu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gary Glitter, metto il rossetto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Billy Idol, Billy Preston",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho speso tutto per donne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "George Best, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm on Broadway George Benson, oh sì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Diridabdabbidu, oh no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Diridabdabbidu oh no no no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Diridabdabbidu oh yeah yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Diridabdabbidu oh no no no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red car senza targa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh red carpet senza maglia oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un tuffo a piazza di Spagna oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh oh Oh no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lady, oh no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Via col vento, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All night long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh no, no crazy, oh God",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to Nevada",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mio amor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, no no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rockstar come i Rolling Stones,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Punk Rock sì, come i Ramones,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock n' roll",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Glam Rock",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "New York New York, oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metti le mani in alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Didabdabdidu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le mani in alto, Didabdabdidu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh sì, sì le mani in alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oddio mio amor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Didabdabdidu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metti le mani in alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le mani in alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "139635303",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lI3rF4hi4op6UxqlLHPzv",
+                    "id": "0lI3rF4hi4op6UxqlLHPzv",
+                    "name": "Achille Lauro",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lI3rF4hi4op6UxqlLHPzv"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6cy3do1WbxdLSmjo2SYgmS"
+            },
+            "href": "https://api.spotify.com/v1/albums/6cy3do1WbxdLSmjo2SYgmS",
+            "id": "6cy3do1WbxdLSmjo2SYgmS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735aea47a91f2ef4d51639ad9b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025aea47a91f2ef4d51639ad9b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515aea47a91f2ef4d51639ad9b",
+                    "width": 64
+                }
+            ],
+            "name": "LAURO - Achille Idol Superstar",
+            "release_date": "2022-02-11",
+            "release_date_precision": "day",
+            "total_tracks": 20,
+            "type": "album",
+            "uri": "spotify:album:6cy3do1WbxdLSmjo2SYgmS"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+                },
+                "href": "https://api.spotify.com/v1/artists/0lI3rF4hi4op6UxqlLHPzv",
+                "id": "0lI3rF4hi4op6UxqlLHPzv",
+                "name": "Achille Lauro",
+                "type": "artist",
+                "uri": "spotify:artist:0lI3rF4hi4op6UxqlLHPzv"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 180280,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITV022200003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/10z92OqLc9BMRiN6RYdWbc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/10z92OqLc9BMRiN6RYdWbc",
+        "id": "10z92OqLc9BMRiN6RYdWbc",
+        "is_local": false,
+        "name": "ROLLING STONES",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/d3c848afce1d81a91d8d149faacc10ea69bc7b47?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:10z92OqLc9BMRiN6RYdWbc"
+    }
+}

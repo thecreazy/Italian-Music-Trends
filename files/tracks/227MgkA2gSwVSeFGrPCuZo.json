@@ -1,0 +1,776 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Smetto di farmi male",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetto con le donne e smetto di fumare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetto con gli alcolici e le droghe strane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetto di non fare le cose da fare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E smetto di parlare se nessuno ascolta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetto di sbagliare e di darmi la colpa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetto di svegliarmi con la luna storta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetto di fuggire e tagliare la corda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giuro, smetterò domani se ho avrò del tempo libero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu insegnami le cose che non ho mai capito",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed io giuro ho detto basta un milione di volte almeno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Però lo dimentico sempre quando mi sveglio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusami se non ho mai tempo da dedicarti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giuro c'ho provato, non sono uno come gli altri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo così vicini e così distanti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come quando mi vedi, ma non mi guardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti di fare così",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti anche di lunedì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo perché ieri ho fatto tardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E cazzo, non ho visto i tuoi messaggi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti sono già le tre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti pure nel weekend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché, perché non è mai abbastanza?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scrivimi domani che magari ti passa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smettila di fare quelle storie con gli amici",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo perché sai che mi incazzo e non so che dirti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tutte quelle frasi, io proprio non so capirti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tutti quei messaggi vocali in cui urli e gridi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Odio quando ti arrabbi per cose che non faccio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poi fingi di non amarmi e fingi di non guardarmi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetti di scaricarmi la colpa addosso pure quando non ce l'ho",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smetti di rispondere al mio \"Che succede?\", \"Non lo so\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu smettila di dire bugie che non c'è spazio più per le mie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dimentichiamo tutte le cose che non ti so dire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusami se non ho mai tempo da dedicarti (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giuro, c'ho provato, non sono uno come gli altri (no, no, no)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo così vicini e così distanti (yeah, yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come quando mi vedi, ma non mi guardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti di fare così",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti anche di lunedì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo perché ieri ho fatto tardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E cazzo non ho visto i tuoi messaggi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti sono già le tre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti pure nel weekend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché, perché non è mai abbastanza?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scrivimi domani che magari ti passa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti (baby, la smetti)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti (mi mandi in sbatti)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti (baby la smetti)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti (yeah, yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti di fare così",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti anche di lunedì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo perché ieri ho fatto tardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E cazzo, non ho visto i tuoi messaggi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti sono già le tre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi mandi in sbatti pure nel weekend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché, perché non è mai abbastanza?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scrivimi domani che magari ti passa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti (baby, la smetti, yeah-yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, la smetti (baby, la smetti, yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "140388255",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5RiGhrEoM1SBjZoY25lCfe",
+                    "id": "5RiGhrEoM1SBjZoY25lCfe",
+                    "name": "Nashley",
+                    "type": "artist",
+                    "uri": "spotify:artist:5RiGhrEoM1SBjZoY25lCfe"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
+            },
+            "href": "https://api.spotify.com/v1/albums/6jmB6f0AiVAAYZRAISXHwq",
+            "id": "6jmB6f0AiVAAYZRAISXHwq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737ee878ad09eb81dae9d14240",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027ee878ad09eb81dae9d14240",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517ee878ad09eb81dae9d14240",
+                    "width": 64
+                }
+            ],
+            "name": "OSIRIDE",
+            "release_date": "2022-03-04",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6jmB6f0AiVAAYZRAISXHwq"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+                },
+                "href": "https://api.spotify.com/v1/artists/5RiGhrEoM1SBjZoY25lCfe",
+                "id": "5RiGhrEoM1SBjZoY25lCfe",
+                "name": "Nashley",
+                "type": "artist",
+                "uri": "spotify:artist:5RiGhrEoM1SBjZoY25lCfe"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+                },
+                "href": "https://api.spotify.com/v1/artists/6BeaPpdgW7R4Q1ZGqENbV0",
+                "id": "6BeaPpdgW7R4Q1ZGqENbV0",
+                "name": "Tancredi",
+                "type": "artist",
+                "uri": "spotify:artist:6BeaPpdgW7R4Q1ZGqENbV0"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 154493,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "ITK192200034"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/227MgkA2gSwVSeFGrPCuZo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/227MgkA2gSwVSeFGrPCuZo",
+        "id": "227MgkA2gSwVSeFGrPCuZo",
+        "is_local": false,
+        "name": "Baby la smetti (feat. Tancredi)",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/5615724e6d77052c27d3e76a02df0dc527024743?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:227MgkA2gSwVSeFGrPCuZo"
+    }
+}

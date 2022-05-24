@@ -1,0 +1,271 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Se c'è un abisso d'ipocrisia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro le scarpe malinconia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io che volevo scappare via",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dopo una crisi di follia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu, se tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu mi avessi amato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu, se tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu non mi avessi rinnegato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E per troppo sentimento lunghe ore di tormento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io non dico quel che sento e per poco mi spavento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non sono un eroe, non sono un eroe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo voglie appese al muro le tue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se c'è un sospetto di fantasia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È una ferita la noia mia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche se lieve è una malattia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forse è una crisi di antipatia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu, se tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu mi avessi amato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu, se tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu non mi avessi rinnegato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E per troppo sentimento lunghe ore di tormento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io non dico quel che sento e per poco mi spavento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non sono un eroe, non sono un eroe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo voglie appese al muro le tue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu, se tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu mi avessi amato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu, se tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se tu non mi avessi rinnegato",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E per troppo sentimento lunghe ore di tormento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io non dico quel che sento e per poco mi spavento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non sono un eroe, non sono un eroe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non sono un eroe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3430332",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194760,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB008270575"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6P6L7zqe1Kumfc2llDwBf8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6P6L7zqe1Kumfc2llDwBf8",
+        "id": "6P6L7zqe1Kumfc2llDwBf8",
+        "is_local": false,
+        "name": "Eroe",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/2df508664741833f5dd038e7f74c3bd0e680f7b8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:6P6L7zqe1Kumfc2llDwBf8"
+    }
+}

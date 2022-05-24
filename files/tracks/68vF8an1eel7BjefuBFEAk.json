@@ -1,0 +1,791 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "E sto nella sad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sto provando a smettere di piangere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma la mia famiglia piange morti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parli della mia tristezza, ma non mi conosci",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sto vivendo dentro un incubo e non ho più sogni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non ho più giorni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho la voglia di morire e il frigo vuoto come il cuore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho speso tutto in droghe per salvarmi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché vivo ogni ora con l'acqua alla gola",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E l'ansia di non farcela",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono un tossico anche per mia madre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lei mi odierà per un'altra estate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La droga fa male solo a chi sta bene",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io non riesco neanche a respirare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E un'altra notte che non dormo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E un altro giorno che non mangio più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non vivo per farmi, devo farmi per vivere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusa mamma, ma è un'altra summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche oggi smetto domani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando non mi sveglierò più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So che farete una festa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusa mamma, ma è un'altra summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sono solo uno scappato di casa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mio padre nell'ansia mi chiama e mi chiede dove dormirò",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nella mia città non ci posso stare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "C'è un prezzo da pagare quando nasci diverso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ho fatto troppe scelte sbagliate per colpa di uno psichiatra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma non trovo mai la forza di farla finita",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È continuerò a vivere all'estremo per dimenticare quanto odio vivere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E penso alle notti in cui dormivo per terra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ora non chiudo gli occhi sul mio letto che crolla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E so che mi odi se sto sulla white",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono il figlio che non hai voluto mai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E un'altra notte che non dormo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E un'altra giorno che non mangio più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non vivo per farmi, devo farmi per vivere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusa mamma, ma è un'altra summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche oggi smetto domani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando non mi sveglierò più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So che farete una festa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusa mamma, ma è un'altra summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E tutti sanno divertirsi tranne me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che da tutta la vita sto nella sad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E speravo soltanto in una fine diversa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma un'altra summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mettiamo molly nella cup per sentire qualcosa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E moriremo nella punx per scrivere la storia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another day nella sad per cambiare l'Italia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E un'altra notte che non dormo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E un'altro giorno che non mangio più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non vivo per farmi, devo farmi per vivere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusa mamma, ma è un'altra summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche oggi smetto domani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando non mi sveglierò più, so che farete una festa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scusa mamma, ma è un'altra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Summersad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sto nella sad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "129983898",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/46zGU1FOSsPBXb1csAeMJd",
+                    "id": "46zGU1FOSsPBXb1csAeMJd",
+                    "name": "Theø",
+                    "type": "artist",
+                    "uri": "spotify:artist:46zGU1FOSsPBXb1csAeMJd"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6gHfqtW8exAkwlpwHN4JyZ",
+                    "id": "6gHfqtW8exAkwlpwHN4JyZ",
+                    "name": "Plant",
+                    "type": "artist",
+                    "uri": "spotify:artist:6gHfqtW8exAkwlpwHN4JyZ"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2o6oF1x3tWoVUXb4C4NHze",
+                    "id": "2o6oF1x3tWoVUXb4C4NHze",
+                    "name": "Fiks",
+                    "type": "artist",
+                    "uri": "spotify:artist:2o6oF1x3tWoVUXb4C4NHze"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3UStaV5uSDqOmGVXbK6lgN"
+            },
+            "href": "https://api.spotify.com/v1/albums/3UStaV5uSDqOmGVXbK6lgN",
+            "id": "3UStaV5uSDqOmGVXbK6lgN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27304deaa7d396daa1857810cba",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0204deaa7d396daa1857810cba",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485104deaa7d396daa1857810cba",
+                    "width": 64
+                }
+            ],
+            "name": "STO NELLA SAD",
+            "release_date": "2022-01-14",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:3UStaV5uSDqOmGVXbK6lgN"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+                },
+                "href": "https://api.spotify.com/v1/artists/46zGU1FOSsPBXb1csAeMJd",
+                "id": "46zGU1FOSsPBXb1csAeMJd",
+                "name": "Theø",
+                "type": "artist",
+                "uri": "spotify:artist:46zGU1FOSsPBXb1csAeMJd"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/6gHfqtW8exAkwlpwHN4JyZ",
+                "id": "6gHfqtW8exAkwlpwHN4JyZ",
+                "name": "Plant",
+                "type": "artist",
+                "uri": "spotify:artist:6gHfqtW8exAkwlpwHN4JyZ"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+                },
+                "href": "https://api.spotify.com/v1/artists/2o6oF1x3tWoVUXb4C4NHze",
+                "id": "2o6oF1x3tWoVUXb4C4NHze",
+                "name": "Fiks",
+                "type": "artist",
+                "uri": "spotify:artist:2o6oF1x3tWoVUXb4C4NHze"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 192375,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "TCAFR2115291"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/68vF8an1eel7BjefuBFEAk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/68vF8an1eel7BjefuBFEAk",
+        "id": "68vF8an1eel7BjefuBFEAk",
+        "is_local": false,
+        "name": "SUMMERSAD 2",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/e0276d13f5e9f21c81b209e55125780f5148e922?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:68vF8an1eel7BjefuBFEAk"
+    }
+}

@@ -1,0 +1,866 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia non si ferma e scende da millenni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Batte cieca sul pianeta e ci trascina via",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla roccia dalla coltre di 'sti cieli eterni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi con gli occhi a pezzi, tu chiudi gli occhi, man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia prende forza da nembi perenni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Picchia e versa sulla testa e porta alla follia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E noi persi qua superstiti fra cieli immensi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi con gli occhi immersi, e chiudi gli occhi, man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prigionieri di terra nel cielo di tenebre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Percossi dall'acqua che impatta e non passa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Grigio nero di cenere nel cielo di Venere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Sta pioggia ti marca, t'ammanta, ti marchia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dalle creste a nord-est, sì, dirette alle vette",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In 'sta giungla di nuvole qua in cerca di cupole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Venti freddi e tremende tempeste magnetiche",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Precluso ed inutile anche l'uso di bussole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pioggia battente ogni lume in cerca di strade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma il suolo si fa torrente poi fiume, palude, mare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Sto suono tarpa la mente, ogni luce nel temporale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Risplende fosforescente nel buio crepuscolare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tambura nella foresta, picchietta sui corpi lividi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sferza quell'acqua fredda e riversa mille milimetri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persi qua tra i perimetri infest la testa ad incubi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Qua toglie colore agli occhi sconvolti da mille brividi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Comparve ora enorme, una nube di polvere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mutava la forma volando nel buio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Avanzava sui trampoli fatti di folgore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Annaspando nel fango cercavo la fuga",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Finalmente ad un tratto nel lasso d'un attimo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un raggio nel vuoto di un solo bagliore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E dal naufragio del razzo sembrava un miracolo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il miraggio del fuoco di un sole minore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia non si ferma, scende da millenni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Batte cieca sul pianeta e ci trascina via",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla roccia dalla coltre di 'sti cieli eterni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi con gli occhi a pezzi, tu chiudi gli occhi, man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia prende forza da nembi perenni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Picchia e versa sulla testa e porta alla follia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E noi persi qua superstiti fra cieli immensi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi con gli occhi immersi, e chiudi gli occhi, man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le tue lacrime tra i miei capelli",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quanta strada per morire qui",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Promettimi di amarmi poi di farmi a pezzi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Venere, ti prego, basta così",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando dici, \"A metà strada\" come fai a saperlo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hai visto Dio che ci indicava e si è fermato il tempo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In questo cielo di cancrena è una preghiera al vento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Brilla di bianco perla la pelle dell'inferno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E noi a specchiarci nelle gocce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Marciti appena nati, fiori che nessuno coglie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pezzi d'acqua acuminati ci trapassano la fronte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perché siete spaventati? In fondo è solo morte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se è la fine, beh, devi farci i conti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quanto vuoi soffrire per cercare la tua oasi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Da quanto non dormi, non lo sai nemmeno tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'acqua ha cancellato tutto anche il ricordo di chi non c'è più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È chiaro al centro dell'uragano",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La vita è una scintilla e noi stanotte ci spegniamo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E tu fatti un regalo, non crederci davvero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io resto fermo qui dove puoi affogare mentre guardi il cielo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lui rideva poi guardava in alto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sembrava la scena di un film",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gli occhi grandi come lo spazio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E forse adesso puoi trovarlo lì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le tue lacrime tra i miei capelli",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quanta strada e morire così",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Promettimi di amarmi poi di farmi a pezzi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Venere, ti prego, dimmi di sì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia non si ferma, scende da millenni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Batte cieca sul pianeta e ci trascina via",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla roccia dalla coltre di 'sti cieli eterni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi con gli occhi a pezzi, tu chiudi gli occhi man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa pioggia prende forza da nembi perenni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Picchia e versa sulla testa e porta alla follia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E noi persi qua superstiti fra cieli immensi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi con gli occhi immersi, e chiudi gli occhi, man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red Sinapsy drug your ears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "138381108",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                    "id": "1UAY1hWd5x69hPVXMXIeri",
+                    "name": "Murubutu",
+                    "type": "artist",
+                    "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/03mKUpldVCEzMHeFlr8Dky"
+            },
+            "href": "https://api.spotify.com/v1/albums/03mKUpldVCEzMHeFlr8Dky",
+            "id": "03mKUpldVCEzMHeFlr8Dky",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395b3ffe17458c718b9a76f33",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295b3ffe17458c718b9a76f33",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195b3ffe17458c718b9a76f33",
+                    "width": 64
+                }
+            ],
+            "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali",
+            "release_date": "2022-01-14",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:03mKUpldVCEzMHeFlr8Dky"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+                },
+                "href": "https://api.spotify.com/v1/artists/1UAY1hWd5x69hPVXMXIeri",
+                "id": "1UAY1hWd5x69hPVXMXIeri",
+                "name": "Murubutu",
+                "type": "artist",
+                "uri": "spotify:artist:1UAY1hWd5x69hPVXMXIeri"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/7q6vzSdJeqaTHBrSgvT7cZ",
+                "id": "7q6vzSdJeqaTHBrSgvT7cZ",
+                "name": "Moder",
+                "type": "artist",
+                "uri": "spotify:artist:7q6vzSdJeqaTHBrSgvT7cZ"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230375,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "IT2G32100010"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4LtfFX4Xv41GTwFYHa20D2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4LtfFX4Xv41GTwFYHa20D2",
+        "id": "4LtfFX4Xv41GTwFYHa20D2",
+        "is_local": false,
+        "name": "Pioggia infinita",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/c136af31f4602998c3f5972b3f2e6adc23534e01?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4LtfFX4Xv41GTwFYHa20D2"
+    }
+}

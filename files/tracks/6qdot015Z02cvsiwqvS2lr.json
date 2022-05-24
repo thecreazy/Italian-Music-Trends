@@ -1,0 +1,886 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Potessi farlo, premio a parte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando perdo, dimmi te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sei sola in panne, mille stanze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che attraverso come te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo distanti come perle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che raccolgo dal parquet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E piove neve e sono io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che piango neve e dico addio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sì, sono a un passo dai rimpianti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che io tengo tra me e me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A commentarli, sei miliardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delle stelle cosa c'è?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi cerca pace siamo in tanti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi è incapace come me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi cerca pace, io prego Dio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il mondo tace e sono io, ehi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono sottosopra, scrivo stesa in sofà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma pare che dal mio riflesso in posa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gli occhi miei accesi sono come due fari",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che accecano i testi in croce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dove i problemi son numeri pari",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se ad ogni mia crepa è doppia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chissà se poi si accorcia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vedo un labirinto, lo dipingo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A patti che è tutto normale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sì, e penso quasi faccio bingo e poi distinguo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il bene perché so che c'è il male",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma scrivo tipo perché cambia, riascoltarla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E volano le farfalle, l'aria che riempiono, sì, poi la stanza",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E posa in faccia e fuma come l'acqua gelata, sì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È che cerco riposo come cerchiamo un posto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dimmi scompari quando un po' ripenso",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se è peggio, mi scordo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È giusto aspettare quando siamo soli",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando urlo nel vuoto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restiamo vivi, sì, come dei fiori",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando fa freddo, io muoio a farlo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un istante se ci perdo, dimmi te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sei sola in panne, mille stanze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che attraverso come te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo distanti come perle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che raccolgo dal parquet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E piove neve e sono io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che piango neve e dico addio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sì, sono a un passo dai rimpianti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che io tengo tra me e me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A commentarli, sei miliardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delle stelle cosa c'è?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi cerca pace siamo in tanti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi è incapace come me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi cerca pace, io prego Dio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il mondo tace e sono io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono immersa in un casino avvolto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Da quel fumo denso che mi acceca al suolo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fingo ti detesto per amarti meno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma io più ci penso, più il mio ego è solo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo l'anteprima con sipario aperto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come faccio prima, gli occhi tuoi distolgo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È una partita persa e ho perso tempo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che poi va a finire ancora un autogol",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E mi dico sincera, non saliscendi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come sciogli la neve sui fiocchi lenti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come apro il mio viso sui resti accesi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metto sopra il tuo dito, sì, ma in silenzio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Penso ai ricami che sulla giacca mi fanno le ali",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E forse volano fuori dai guai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando mi guardi, no, non siamo guai",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E penso cosa sia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Potessi farlo, premio a parte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando perdo, dimmi te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sei sola in panne, mille stanze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che attraverso come te",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo distanti come perle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che raccolgo dal parquet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E piove neve e sono io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che piango neve e dico addio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sì, sono a un passo dai rimpianti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che io tengo tra me e me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A commentarli, sei miliardi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delle stelle cosa c'è?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi cerca pace siamo in tanti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi è incapace come me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chi cerca pace, io prego Dio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il mondo tace e sono io, ehi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "138314336",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0zoMmzmyi8N8LwzhyXPvtk",
+                    "id": "0zoMmzmyi8N8LwzhyXPvtk",
+                    "name": "Mara Sattei",
+                    "type": "artist",
+                    "uri": "spotify:artist:0zoMmzmyi8N8LwzhyXPvtk"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7iC8xpYEBwvEhpiCs0WfRn"
+            },
+            "href": "https://api.spotify.com/v1/albums/7iC8xpYEBwvEhpiCs0WfRn",
+            "id": "7iC8xpYEBwvEhpiCs0WfRn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e89cd04a72cccec5219d9d38",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e89cd04a72cccec5219d9d38",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e89cd04a72cccec5219d9d38",
+                    "width": 64
+                }
+            ],
+            "name": "UNIVERSO",
+            "release_date": "2022-01-14",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:7iC8xpYEBwvEhpiCs0WfRn"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+                },
+                "href": "https://api.spotify.com/v1/artists/0zoMmzmyi8N8LwzhyXPvtk",
+                "id": "0zoMmzmyi8N8LwzhyXPvtk",
+                "name": "Mara Sattei",
+                "type": "artist",
+                "uri": "spotify:artist:0zoMmzmyi8N8LwzhyXPvtk"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 205957,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB002101001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6qdot015Z02cvsiwqvS2lr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qdot015Z02cvsiwqvS2lr",
+        "id": "6qdot015Z02cvsiwqvS2lr",
+        "is_local": false,
+        "name": "Perle - prod. tha Supreme",
+        "popularity": 42,
+        "preview_url": "https://p.scdn.co/mp3-preview/99b7372f8ecdef8bb0d5ff6ec9b518a9013a16c6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:6qdot015Z02cvsiwqvS2lr"
+    }
+}

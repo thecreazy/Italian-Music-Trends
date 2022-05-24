@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Infilava perle di vetro di tutti i colori",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E vendeva camicie di garza dipinte di fiori",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E le notti d'estate lui per noi improvvisava",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Canzoni e racconti che poi dimenticava",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nei suoi sogni cercava da sempre una donna ideale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E voleva la banda e i cavalli al suo funerale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E le notti d'inverno, rosse d'amore e di vino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Confessava alla donna che aveva, che avrebbe voluto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un giorno di gloria almeno, almeno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un giorno di gloria almeno, almeno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È morto un artista",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Invece di piangere fanno festa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando muore un artista",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lui si porta con sé",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I pensieri del mondo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quante volte abbiam bevuto nello stesso bicchiere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E guardandomi spesso diceva che era bello tacere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando il sonno veniva riportava al mattino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'impazienza che stesse venendo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quel giorno di gloria almeno, almeno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quel giorno di gloria almeno, almeno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "È morto un artista",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Invece di piangere fanno festa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quando muore un artista",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lui si porta con sé",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I pensieri del mondo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "24270610",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 257160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB007770738"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7Go5IW5sUMxBDwAZaoME3Y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Go5IW5sUMxBDwAZaoME3Y",
+        "id": "7Go5IW5sUMxBDwAZaoME3Y",
+        "is_local": false,
+        "name": "E' Morto Un Artista",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/052faa014504b6cfad4ed59c46d192de7180e6b7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 24,
+        "type": "track",
+        "uri": "spotify:track:7Go5IW5sUMxBDwAZaoME3Y"
+    }
+}

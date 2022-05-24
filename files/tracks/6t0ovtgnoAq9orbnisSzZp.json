@@ -1,0 +1,781 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "La mia vita è piena di problemi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E io mi ci butto a capofitto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Queste giornate piene di impegni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dovrei imparare a seguire il ritmo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giro in auto, mi muovo da solo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Senza mezzi, è meglio, anzi peggio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gli immigrati rubano il lavoro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gli italiani rubano il parcheggio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In ufficio il mio capo mi tratta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come se non mi avesse visto mai prima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che mi chiama Riccardo, ma sono Fabrizio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Così perdo pure autostima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Si lamenta e dice: \"Troppe tasse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devo licenziarti, addio, ci vediamo\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Servirebbe qualcuno che salvi il paese",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Così potrei vivere in pace, speriamo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro che succede? Vi faccio vedere come si fa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Santa immaginazione, ho perso le chiavi della città",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Magiche le elezioni, a fare promesse siamo i campioni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passo l'inverno a tenervi buoni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cerco l'estate quaggiù in città",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non c'è più niente che mi manca",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La risposta ad ogni tua domanda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Finalmente qualcuno che parla per me, che sa quello che provo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Finalmente qualcuno che pensa alla gente, e che mi dà un lavoro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che promette di farmi dormire tranquillo in tutte queste notti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Finalmente qualcuno che mi sembra onesto, in mezzo a tanti corrotti",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Qualcuno che mi assomiglia, che in TV parla la mia lingua",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che difende tutti quei valori italiani, tipo la famiglia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uno come me che non se la tira, che rispetti come chi ha la divisa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anche se l'Italia l'ha un po' divisa, attenzione, guarda, eccolo, arriva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evviva!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In giro che succede? Vi faccio vedere come si fa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Santa immaginazione, ho perso le chiavi della città",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Magiche le elezioni, a fare promesse siamo i campioni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passo l'inverno a tenervi buoni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cerco l'estate quaggiù in città",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non c'è più niente che mi manca",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La risposta ad ogni tua domanda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono passati degli anni e tutto è ancora uguale a prima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono sempre senza lavoro e sempre con meno autostima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Accendo la tele, un politico parla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sembra interessante, ascoltiamolo un po'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fa mille promesse, la gente lo guarda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sicuro alle prossime lo voterò",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non c'è più niente che mi manca",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La risposta ad ogni tua domanda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma che occhi grandi che ho (oh, oh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che bella felpa che ho (oh, oh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che bel sorriso che ho (oh, oh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non mi puoi dire di no (oh, oh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E allora sì, propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Propaganda, propaganda",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "141133041",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7u710e44HW3K7A5eTnRqHC",
+                    "id": "7u710e44HW3K7A5eTnRqHC",
+                    "name": "Fabri Fibra",
+                    "type": "artist",
+                    "uri": "spotify:artist:7u710e44HW3K7A5eTnRqHC"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+            },
+            "href": "https://api.spotify.com/v1/albums/3uiWXB4lUCGo3QHxMVxGEB",
+            "id": "3uiWXB4lUCGo3QHxMVxGEB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b39f1cccb454cd361da50fdb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b39f1cccb454cd361da50fdb",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b39f1cccb454cd361da50fdb",
+                    "width": 64
+                }
+            ],
+            "name": "Caos",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:3uiWXB4lUCGo3QHxMVxGEB"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+                },
+                "href": "https://api.spotify.com/v1/artists/7u710e44HW3K7A5eTnRqHC",
+                "id": "7u710e44HW3K7A5eTnRqHC",
+                "name": "Fabri Fibra",
+                "type": "artist",
+                "uri": "spotify:artist:7u710e44HW3K7A5eTnRqHC"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
+                },
+                "href": "https://api.spotify.com/v1/artists/2KX2VLr3Eu6sn6EtxzCtvf",
+                "id": "2KX2VLr3Eu6sn6EtxzCtvf",
+                "name": "Colapesce",
+                "type": "artist",
+                "uri": "spotify:artist:2KX2VLr3Eu6sn6EtxzCtvf"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g"
+                },
+                "href": "https://api.spotify.com/v1/artists/1k3zqz5SgrYCE0wpcfJX3g",
+                "id": "1k3zqz5SgrYCE0wpcfJX3g",
+                "name": "Dimartino",
+                "type": "artist",
+                "uri": "spotify:artist:1k3zqz5SgrYCE0wpcfJX3g"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 213506,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB002200054"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6t0ovtgnoAq9orbnisSzZp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6t0ovtgnoAq9orbnisSzZp",
+        "id": "6t0ovtgnoAq9orbnisSzZp",
+        "is_local": false,
+        "name": "Propaganda",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/6826d01f9b3e0626bb0f5fca6ccac8f993f8c550?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6t0ovtgnoAq9orbnisSzZp"
+    }
+}

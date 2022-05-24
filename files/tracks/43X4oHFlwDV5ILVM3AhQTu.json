@@ -1,0 +1,741 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ciao, baby, ti scrivo con l'odore della pioggia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi ero scordato quanto fosse buono",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Se chiudo gli occhi adesso c'ho il flashback",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le voci in testa, ma non so il perché",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho visto morire la mia estate a luglio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guardato brillare solo stelle al buio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma non ti viene voglia di tuffarti?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di strillare? Di scordare? Di lasciarti andare via?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro le fiamme del sole, dentro le nuvole, tra le persone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma queste strade parlano di noi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quasi le sento mormorare a bassa voce, ehi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dagli abissi di questa pozzanghera",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi sul fondo legati da un'ancora",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sotto l'acqua, dovе non filtra la luce del sole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho bisogno di niеnte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nella mia giacca jeans",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono solo parole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parole al vento, sì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se resto in silenzio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E cadi dentro alle nuvole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho paura che non torni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non ritornerei neanche io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed è la solita storia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho bisogno che non torni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E che sono solo sogni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho paura di niente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa notte lunghissima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di me, di te, flashback (flashback)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Okay, ciao e vaffanculo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A tutto c'è un rimedio, ma a questo no sicuro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vorrei svegliarmi adesso in cima ad una montagna",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo bambini in punizione dietro la lavagna (seh)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo speciali come toccati dagli angeli",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Le facce buone, l'anima da vandali",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In questa strada coi lampioni in centro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dove una volta ti ho guardato dentro",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho bisogno di niente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nella mia giacca jeans",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sono solo parole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parole al vento, sì",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E se resto in silenzio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E cadi dentro alle nuvole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho paura che non torni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E non ritornerei neanche io",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ed è la solita storia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho bisogno che non torni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E che sono solo sogni",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho paura di niente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa notte lunghissima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di me, di te, flashback (flashback)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flashback",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ho paura di niente",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Questa notte lunghissima",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Di me, di te, flashback (flashback)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flashback",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "135171210",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3GNq6JwYWh8B2xujy6ub04",
+                    "id": "3GNq6JwYWh8B2xujy6ub04",
+                    "name": "Gemello",
+                    "type": "artist",
+                    "uri": "spotify:artist:3GNq6JwYWh8B2xujy6ub04"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1z97fuso3gAXtxFny5EbbV"
+            },
+            "href": "https://api.spotify.com/v1/albums/1z97fuso3gAXtxFny5EbbV",
+            "id": "1z97fuso3gAXtxFny5EbbV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730e81fdd6b7deaffa0489121e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020e81fdd6b7deaffa0489121e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510e81fdd6b7deaffa0489121e",
+                    "width": 64
+                }
+            ],
+            "name": "La Quiete",
+            "release_date": "2022-01-21",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1z97fuso3gAXtxFny5EbbV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+                },
+                "href": "https://api.spotify.com/v1/artists/3GNq6JwYWh8B2xujy6ub04",
+                "id": "3GNq6JwYWh8B2xujy6ub04",
+                "name": "Gemello",
+                "type": "artist",
+                "uri": "spotify:artist:3GNq6JwYWh8B2xujy6ub04"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 190165,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "IT1O72100730"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/43X4oHFlwDV5ILVM3AhQTu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/43X4oHFlwDV5ILVM3AhQTu",
+        "id": "43X4oHFlwDV5ILVM3AhQTu",
+        "is_local": false,
+        "name": "Flashback",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/295469bf8d5eb39cbb6caa9ae402d1016c5fa779?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:43X4oHFlwDV5ILVM3AhQTu"
+    }
+}

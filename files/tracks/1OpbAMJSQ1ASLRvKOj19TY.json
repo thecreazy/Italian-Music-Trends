@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "La bicicletta tutta verniciata",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Il fiocco rosso in testa e la cartella",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Piena di firme era e mi piaceva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non mi piaceva invece stare sola",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mia madre mi seguiva dal balcone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con l'ultima sua ansia e il cuore in gola",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io non avevo amici nella scuola",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E forse già da allora",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io cominciavo a crescere da sola",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel viale della scuola è sempre autunno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo di Natale brilla un po'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel viale della scuola mi ricordo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "D'aver sentito i primi no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La prima amica, la prima confidenza",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lo stesso banco e la sua pagella",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Molto meglio di me lei si sentiva",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forse per questo ancora mi ascoltava",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mia madre non capiva i miei pensieri",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nei lunghi pomeriggi non studiavo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io non avevo amici e mi fidavo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E forse gia da allora",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io cominciavo a crescere da sola",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel viale della scuola è sempre autunno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Solo di Natale brilla un po'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel viale della scuola mi ricordo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "D'aver sentito i primi no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nel viale della scuola mi ricordo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "D'aver sentito i primi no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No, no, no",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3430387",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                    "id": "7eIqewR3PiwQDItf5G2SyV",
+                    "name": "Donatella Rettore",
+                    "type": "artist",
+                    "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+                }
+            ],
+            "available_markets": [
+                "IT",
+                "MT",
+                "SM"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6YYXUpBdVDdop2vsAOVw6f"
+            },
+            "href": "https://api.spotify.com/v1/albums/6YYXUpBdVDdop2vsAOVw6f",
+            "id": "6YYXUpBdVDdop2vsAOVw6f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734082309ef169867c043bfdaf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024082309ef169867c043bfdaf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514082309ef169867c043bfdaf",
+                    "width": 64
+                }
+            ],
+            "name": "Insistentemente Rettore!",
+            "release_date": "2022-03-18",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:6YYXUpBdVDdop2vsAOVw6f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7eIqewR3PiwQDItf5G2SyV",
+                "id": "7eIqewR3PiwQDItf5G2SyV",
+                "name": "Donatella Rettore",
+                "type": "artist",
+                "uri": "spotify:artist:7eIqewR3PiwQDItf5G2SyV"
+            }
+        ],
+        "available_markets": [
+            "IT",
+            "MT",
+            "SM"
+        ],
+        "disc_number": 1,
+        "duration_ms": 243293,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITB007770735"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1OpbAMJSQ1ASLRvKOj19TY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1OpbAMJSQ1ASLRvKOj19TY",
+        "id": "1OpbAMJSQ1ASLRvKOj19TY",
+        "is_local": false,
+        "name": "Nel Viale Della Scuola E' Sempre Autunno",
+        "popularity": 2,
+        "preview_url": "https://p.scdn.co/mp3-preview/41b574fe82c316d5d9a7cc0d637983d0f022d865?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:1OpbAMJSQ1ASLRvKOj19TY"
+    }
+}

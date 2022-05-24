@@ -1,0 +1,786 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ti vedo un po' male",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Credo sia il tempo o forse che non ci parliamo più",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io scrivo e mi perdo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Piango ridendo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mi guardo a uno specchio che non mi riflette e tu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hai perso l'orientamento cercando un cuore da fare a pezzi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Corri e ti fermi, sguardi che perdi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Buona fortuna se non ci sarò",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nei momenti in cui pioverà anche d'estate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tu mi dirai \"passerà\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passi distesi nel vuoto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Non trovo più la via di casa e",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ne abbiamo fatte di scale, si ma solo in salita",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guardami come se fossi ancora",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'alba che si accende su casa nostra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lacrime che perdo in mezzo alla pioggia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi fuochi d'artificio sopra la folla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma ci siamo spenti in corsa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo spenti in corsa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro a nuove risposte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dove ci siamo lasciati",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veniamoci a prendere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'ultima corsa, spegniti e resta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dammi la luce quando fuori è buio, vino bianco guardo il plenilunio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo strani come pioggia a luglio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io sono niente ma mi hai dato tutto",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Buona fortuna, non mi pensare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci siamo spenti anche prima di accenderci",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vorrei sputare sul piatto in cui mangio, però devo bere e riprendermi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'alba che si accende su casa nostra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lacrime che perdo in mezzo alla pioggia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noi fuochi d'artificio sopra la folla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma ci siamo spenti in corsa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo spenti in corsa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro a nuove risposte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dove ci siamo lasciati",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veniamoci a prendere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'ultima corsa, spegniti e resta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci riprendiamo in corsa, ti voglio mia per forza",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Voglio amarti in fondo come scava questa pioggia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vesto lana di roccia, cade un'altra goccia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cascasse il mondo stiamo insieme sotto fango, terra e neve",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma per farci forza",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'alba che si è accesa su casa nostra",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lacrime che ho perso in mezzo alla pioggia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fuochi d'artificio sopra la folla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma ci siamo spenti in corsa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siamo spenti in corsa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro a nuove risposte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dove ci siamo lasciati",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veniamoci a prendere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "L'ultima corsa, spegniti e resta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulla strada di sempre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dentro a nuove risposte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dove ci siamo lasciati",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veniamoci a prendere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "141407812",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Ldc464DQq76zQ27Lc1uyI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Ldc464DQq76zQ27Lc1uyI",
+                    "id": "3Ldc464DQq76zQ27Lc1uyI",
+                    "name": "Martina Beltrami",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Ldc464DQq76zQ27Lc1uyI"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3i7rpFwsIcPApxMw9DvVlK"
+            },
+            "href": "https://api.spotify.com/v1/albums/3i7rpFwsIcPApxMw9DvVlK",
+            "id": "3i7rpFwsIcPApxMw9DvVlK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734149dedb6eacf0be333a62c7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024149dedb6eacf0be333a62c7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514149dedb6eacf0be333a62c7",
+                    "width": 64
+                }
+            ],
+            "name": "Cara Me",
+            "release_date": "2022-03-25",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3i7rpFwsIcPApxMw9DvVlK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3Ldc464DQq76zQ27Lc1uyI"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Ldc464DQq76zQ27Lc1uyI",
+                "id": "3Ldc464DQq76zQ27Lc1uyI",
+                "name": "Martina Beltrami",
+                "type": "artist",
+                "uri": "spotify:artist:3Ldc464DQq76zQ27Lc1uyI"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+                },
+                "href": "https://api.spotify.com/v1/artists/2I5bwg7ZUD8JiM12xMMGYO",
+                "id": "2I5bwg7ZUD8JiM12xMMGYO",
+                "name": "Don Said",
+                "type": "artist",
+                "uri": "spotify:artist:2I5bwg7ZUD8JiM12xMMGYO"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 189533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITWHB2200004"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0nZnXFyhuc46KljH30mQsg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0nZnXFyhuc46KljH30mQsg",
+        "id": "0nZnXFyhuc46KljH30mQsg",
+        "is_local": false,
+        "name": "Spenti In Corsa",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/91906958416c41f00837a1581270167bbca4d3fd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0nZnXFyhuc46KljH30mQsg"
+    }
+}

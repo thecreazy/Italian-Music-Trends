@@ -1,0 +1,776 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Fa caldo, apri il frigorifero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riempi un bicchiere di ghiaccio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ci infilo un'acqua tonica",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vorrei fosse sempre Agosto e non uscire dall'acqua",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Attraversare questo paese",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ciclisti e gabbiani lungo l'autostrada",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E l'anno prossimo chi va in panchina",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sali e tabacchi al bar della stazione",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dai sali in macchina, c'è già la fila",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E poi troviamo l'inferno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E c'è il mare che ci aspetta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una ragazza che ci sta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma pure se andremo in bianco",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una risata e passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lassù in cielo mille stelle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che non vedi mai dalla città",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci finiamo spalla a spalla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una bottiglia già a metà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sorpasseremo il sole di mezzogiorno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mentre andiamo senza meta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma col serbatoio pieno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io sto bene anche così, uo-oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con un amico vero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Accarezzo il vento dal finestrino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "C'ho mio fratello vicino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lo zaino come cuscino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So che in fondo alla statale c'è un bivio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che porta ad un rettilineo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che corre incontro al destino",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come le stelle nei film degli americani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dietro le spalle l'odore dei temporali",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E vivere senza piani",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cercare cieli più chiari",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mentre il motore prende velocità",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Un gratta e vinci per cambiare vita",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cambio frequenza, c'è la tua canzone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gli spicci giusti per una lattina",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E per pagare il casello",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E c'è il mare che ci aspetta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una ragazza che ci sta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma pure se andremo in bianco",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una risata e passerà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lassù in cielo mille stelle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Che non vedi mai dalla città",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ci finiamo spalla a spalla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Una bottiglia già a metà",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sorpasseremo il sole di mezzogiorno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mentre andiamo senza meta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma col serbatoio pieno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io sto bene anche così, uo-oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con un amico vero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Na-na-na-na-na-na-na-na-na",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Na-na-na-na-na-na-na-na",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Na-na-na-na-na-na-na-na",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Na-na-na-na-na-na-na-na",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E sorpasseremo il sole di mezzogiorno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mentre andiamo senza meta",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ma col serbatoio pieno",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Io sto bene anche così, uo-oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Con un amico vero",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "140441154",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "it",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/47z0zz9ZMCn9GBiPRTn5Bc",
+                    "id": "47z0zz9ZMCn9GBiPRTn5Bc",
+                    "name": "Tommaso Paradiso",
+                    "type": "artist",
+                    "uri": "spotify:artist:47z0zz9ZMCn9GBiPRTn5Bc"
+                }
+            ],
+            "available_markets": [
+                "AD",
+                "AE",
+                "AG",
+                "AL",
+                "AM",
+                "AO",
+                "AR",
+                "AT",
+                "AU",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BN",
+                "BO",
+                "BR",
+                "BS",
+                "BT",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CD",
+                "CG",
+                "CH",
+                "CI",
+                "CL",
+                "CM",
+                "CO",
+                "CR",
+                "CV",
+                "CW",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "ES",
+                "FI",
+                "FJ",
+                "FM",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GH",
+                "GM",
+                "GN",
+                "GQ",
+                "GR",
+                "GT",
+                "GW",
+                "GY",
+                "HK",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IN",
+                "IQ",
+                "IS",
+                "IT",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KR",
+                "KW",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MN",
+                "MO",
+                "MR",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NE",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RO",
+                "RS",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SE",
+                "SG",
+                "SI",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SR",
+                "ST",
+                "SV",
+                "SZ",
+                "TD",
+                "TG",
+                "TH",
+                "TJ",
+                "TL",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "US",
+                "UY",
+                "UZ",
+                "VC",
+                "VE",
+                "VN",
+                "VU",
+                "WS",
+                "XK",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1K13Dx7CwkDK52JrMuqo7L"
+            },
+            "href": "https://api.spotify.com/v1/albums/1K13Dx7CwkDK52JrMuqo7L",
+            "id": "1K13Dx7CwkDK52JrMuqo7L",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739a16a82cfb43f4ad3457bf9c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029a16a82cfb43f4ad3457bf9c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519a16a82cfb43f4ad3457bf9c",
+                    "width": 64
+                }
+            ],
+            "name": "Space Cowboy",
+            "release_date": "2022-03-03",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1K13Dx7CwkDK52JrMuqo7L"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc"
+                },
+                "href": "https://api.spotify.com/v1/artists/47z0zz9ZMCn9GBiPRTn5Bc",
+                "id": "47z0zz9ZMCn9GBiPRTn5Bc",
+                "name": "Tommaso Paradiso",
+                "type": "artist",
+                "uri": "spotify:artist:47z0zz9ZMCn9GBiPRTn5Bc"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+                },
+                "href": "https://api.spotify.com/v1/artists/2KkO9uXHF9BVNJASjLekAc",
+                "id": "2KkO9uXHF9BVNJASjLekAc",
+                "name": "Franco126",
+                "type": "artist",
+                "uri": "spotify:artist:2KkO9uXHF9BVNJASjLekAc"
+            }
+        ],
+        "available_markets": [
+            "AD",
+            "AE",
+            "AG",
+            "AL",
+            "AM",
+            "AO",
+            "AR",
+            "AT",
+            "AU",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BN",
+            "BO",
+            "BR",
+            "BS",
+            "BT",
+            "BW",
+            "BY",
+            "BZ",
+            "CA",
+            "CD",
+            "CG",
+            "CH",
+            "CI",
+            "CL",
+            "CM",
+            "CO",
+            "CR",
+            "CV",
+            "CW",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FJ",
+            "FM",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GH",
+            "GM",
+            "GN",
+            "GQ",
+            "GR",
+            "GT",
+            "GW",
+            "GY",
+            "HK",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MN",
+            "MO",
+            "MR",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NE",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SR",
+            "ST",
+            "SV",
+            "SZ",
+            "TD",
+            "TG",
+            "TH",
+            "TJ",
+            "TL",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "UZ",
+            "VC",
+            "VE",
+            "VN",
+            "VU",
+            "WS",
+            "XK",
+            "ZA",
+            "ZM",
+            "ZW"
+        ],
+        "disc_number": 1,
+        "duration_ms": 226063,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ITRRS2200003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7wjA7mT4LOdxiqVXlzN2u1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7wjA7mT4LOdxiqVXlzN2u1",
+        "id": "7wjA7mT4LOdxiqVXlzN2u1",
+        "is_local": false,
+        "name": "Amico vero (feat. Franco126)",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/2d2ba220a516a3648da147d1440762400f1cdf3f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7wjA7mT4LOdxiqVXlzN2u1"
+    }
+}
