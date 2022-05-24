@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JavaScript Tag Cloud Chart</title>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+    <script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script>
+    <style>
+      html,
+      body,
+      #container {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container"></div>
+    <script src="data.js"></script>
+    <script>
+     anychart.onDocumentReady(function () {
+        const values = window.data.map((el, index) => {
+            const isPositive = el.positiveScore >= el.negativeScore;
+            return {
+                x: el.positiveScore,
+                value: Math.round(el.negativeScore),
+                size: el.numberOfRows / 10,
+                normal:   {
+                    fill: `${isPositive ? 'green': 'red'} 0.3`,
+                    stroke:isPositive ? 'green': 'red',
+                    markerSize: 4,
+                    type: isPositive ? 'square' : 'star4'
+                },
+            }
+        }).sort(function(a, b) {
+            return a.x - b.x;
+        });
+
+        const chart = anychart.cartesian();
+        chart.xAxis().title("Positive Score");
+        chart.yAxis().title("Negative Score");
+        const series1 = chart.marker(values);
+        chart.getSeriesAt(0).name("Negative score");
+        chart.yScale().minimum(-5);
+        chart.yScale().maximum(27);
+        chart.xScale(anychart.scales.ordinal());
+        chart.container("container");
+        chart.title("Song sentiment distribution from 01/01/2022 to 28/03/2022");
+        chart.draw();
+      });
+    </script>
+  </body>
+</html>

@@ -10,6 +10,7 @@
     "start:downloadLyrics": "node src/downloadLyrics/main.js",
     "start:lyricsToWords": "node src/lyricsToWords/main.js",
     "start:createWordsStats": "node src/createWordsStats/main.js",
+    "start:createPhasesStats": "node src/createPhasesStats/main.js",
     "lint": "eslint \"src/**/*.{js,ts}\""
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
