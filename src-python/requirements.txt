@@ -1,0 +1,8 @@
+###### Requirements without Version Specifiers ######
+torch
+numpy
+jax
+flax
+wheel
+transformers
+progressbar2
