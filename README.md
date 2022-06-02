@@ -20,3 +20,5 @@ Why? Because i was bored and had the time to learn something new.
 
 <a href="https://thecreazy.github.io/Italian-Music-Trends/phases-stats/">Sentiment stats for song</a>
 <img src="https://raw.githubusercontent.com/thecreazy/Italian-Music-Trends/main/docs/py-sentiment.png">
+
+Want to know more about the results? Get a look to the [releated medium article](https://blog.canellariccardo.it/what-is-the-mood-of-the-italian-music-released-during-the-first-three-months-of-this-year-51b1f83acd)
